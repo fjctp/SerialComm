@@ -20,5 +20,5 @@ Please see the example section below
 ##Example
 To use the exmaple please run the following command
 ```
-platformio ci --lib . examples/basic.ino
+platformio ci --lib . --board pro8MHzatmega328 examples/basic.ino
 ```
