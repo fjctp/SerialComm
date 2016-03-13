@@ -1,0 +1,12 @@
+{
+  "name": "SerialComm",
+  "keywords": "serial, protocol",
+  "description": "Provides a simple API for Arduino to communicate over serial port",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/fjctp/SerialComm.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr, atmelsam, espressif"
+}
